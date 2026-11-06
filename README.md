@@ -60,7 +60,7 @@ The goal is to transform raw data into meaningful insights using Python (EDA) an
 ![Overview](Screenshots/overview.png)
 ### Rating
 ![Rating](Screenshots/rating.png)
-### Country.png
+### Country
 ![Country](Screenshots/country.png)
 
 This project demonstrates how data analysis and visualization can provide meaningful insights into content strategy and user targeting.
